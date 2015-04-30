@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>The Kinsey Sicks</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+
+  <h1>The Kinsey Sicks</h1>
+  <body>
+
+  <img src="images/KSBG2.jpg" alt="The Kinsey Sicks" title="Trampy, Rachel, Trixie, and Winnie!">
+  <h3>America's Favorite Dragapella Beautyshop Quartet!</h3>
+  <p id="slogan">"The hottest ticket in town"   - New York Times <br>
+  "Inventive ... riotously funny ... sublime"   - Variety <br></p>
+
+  <hr>
+  
+  <p><ul>
+
+   About<br>
+   Calendar<br>
+   Shows<br>
+   Store<br>
+   Audio/Video<br>
+   Press Kit<br>
+   Hire Us<br>
+  </ul></p>
+
+  <hr>
+
+   <a href="mailto:jeff@kinseysicks.com?Subject=Hello%20There" target="_top">Contact</a><br>
+
+
+  </body>
+
+</html>

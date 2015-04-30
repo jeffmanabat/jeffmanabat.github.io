@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: #000;
+  font-family: Helvetica;
+  color: white;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+#slogan {
+    font-family: Georgia;
+    font-style: italic;
+    line-height: 200%;
+}
+
+hr {
+  width: 500px;
