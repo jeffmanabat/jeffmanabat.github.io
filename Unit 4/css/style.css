@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: #7900a3;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  line-height: 130%;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Fontdiner Swanky', cursive;
+  color: #fffd2b;
+  font-size: 400%;
+  line-height: 25%;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-family: 'Marcellus SC', serif;
+  color: #fffd2b;
+  font-size: 200%;
+  line-height: 50%;
+}
+
+#slogan {
+  font-family: 'Marcellus SC', serif;
+  font-style: italic;
+  font-size: 140%;
+  line-height: 150%;
+}
+
+hr {
+  width: 600px;
+  color: #fffd2b;
+}
