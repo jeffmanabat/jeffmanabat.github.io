@@ -1,0 +1,181 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+} 
+
+body {
+  background-color: black;
+}
+
+.about h1 {
+  color: white;
+  font-size: 1em;  
+  font-family: 'Noto Serif', serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.about {
+  background-color: #FEF5BB;
+  color: black;
+  background-image:url('../images/Waterfall.jpg');
+  height: 490px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom:0;
+}
+
+.entry-content {
+  color: white;
+}
+
+.nav a {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-transform: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color: navy;
+}
+
+
+a:hover {
+    background-color: #FEF5BB;
+    text-decoration: none;
+    color: navy;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('../images/Beach.jpg');
+  height: 490px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom:0;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 40px;
+  margin-bottom:0;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 7em;  
+  font-family: 'Noto Serif', serif;
+  font-weight: bold;
+
+}
+
+.jumbotron p {
+  font-size: 24px;
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.about {
+  background-color: #FEF5BB;
+  color: black;
+  background-image:url('../images/Waterfall.jpg');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0;
+  text-align: center
+}
+
+.about h1 {
+  color: white;
+  font-size: 3em;  
+  font-family: 'Noto Serif', serif;
+  font-weight: bold;
+  text-align: top-center;
+  margin: 0;
+}
+
+.about h2{
+ font-family: 'Droid Serif', serif;
+  color: white;
+}
+
+.about p {
+  color: white;
+  margin:0;
+  padding:0;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 1em;
+}
+
+img {
+  max-width: 100%;
+}
+
+.Ryan {
+  margin: 10px;
+  height: 500px;
+}
+
+.Daniel {
+  margin: 10px;
+  height: 500px
+}
+
+.Gabrielle {
+  margin: 10px;
+  height: 500px
+}
+
+.Jessica {
+  margin: 10px;
+  height: 500px
+}
+
+.learn-more {
+  background-color: #FEF5BB;
+  color: black;
+}
+
+.learn-more h2 {
+ font-family: 'Droid Serif', serif;
+ color: black;
+ font-size: 2em;
+}
+
+.learn-more p {
+  margin:0;
+  padding:0;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.learn-more a {
+  color: navy;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0px;
+  text-transform: none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color: #FEF5BB;
+}
+
+.three-column {
+  padding: 1em;
+  -moz-column-count: 3;
+  -moz-column-gap: 3em;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 1em;
+  column-count: 3;
+  column-gap: 1em;
+}
+
+footer {
+  color: white;
+  font-size: 12px;
+  padding: 12px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
