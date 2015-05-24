@@ -13,7 +13,7 @@ body {
 
 .about h1 {
   color: white;
-  font-size: 1em;  
+  font-size: 16px;  
   font-family: 'Noto Serif', serif;
   font-weight: bold;
   text-align: center;
@@ -41,8 +41,9 @@ body {
   text-transform: none;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   background-color: navy;
+  border: 0px;
+  margin-bottom: 0px;
 }
-
 
 a:hover {
     background-color: #FEF5BB;
@@ -56,28 +57,27 @@ a:hover {
 
 .jumbotron {
   background-image:url('../images/Beach.jpg');
-  height: 490px;
+  height: 480px;
   background-repeat: no-repeat;
   background-size: 100%;
-  margin-bottom:0;
+  margin-bottom: 0px;
+  margin-top: -20px;
 }
 
 .jumbotron .container {
-  position: relative;
-  top: 40px;
-  margin-bottom:0;
+  margin-bottom: 0px;
 }
 
 .jumbotron h1 {
   color: white;
-  font-size: 7em;  
+  font-size: 96px;  
   font-family: 'Noto Serif', serif;
   font-weight: bold;
 
 }
 
 .jumbotron p {
-  font-size: 24px;
+  font-size: 22px;
   color: white;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
@@ -89,17 +89,17 @@ a:hover {
   height: 700px;
   background-repeat: no-repeat;
   background-size: 100%;
-  margin: 0;
+  margin: 0px;
   text-align: center
 }
 
 .about h1 {
   color: white;
-  font-size: 3em;  
+  font-size: 112px;  
   font-family: 'Noto Serif', serif;
   font-weight: bold;
   text-align: top-center;
-  margin: 0;
+  margin: 0px;
 }
 
 .about h2{
@@ -109,10 +109,10 @@ a:hover {
 
 .about p {
   color: white;
-  margin:0;
-  padding:0;
+  margin:0px;
+  padding:0px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  font-size: 1em;
+  font-size: 16px;
 }
 
 img {
@@ -151,12 +151,12 @@ img {
 .learn-more h2 {
  font-family: 'Droid Serif', serif;
  color: black;
- font-size: 2em;
+ font-size: 32px;
 }
 
 .learn-more p {
-  margin:0;
-  padding:0;
+  margin:0px;
+  padding:0px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
@@ -171,13 +171,13 @@ img {
 }
 
 .three-column {
-  padding: 1em;
+  padding: 16px;
   -moz-column-count: 3;
-  -moz-column-gap: 3em;
+  -moz-column-gap: 48px;
   -webkit-column-count: 3;
-  -webkit-column-gap: 1em;
+  -webkit-column-gap: 16px;
   column-count: 3;
-  column-gap: 1em;
+  column-gap: 16px;
 }
 
 footer {
