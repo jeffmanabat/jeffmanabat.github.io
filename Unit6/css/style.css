@@ -163,13 +163,13 @@ img {
 }
 
 .three-column {
-  padding: 1em;
+  padding: 16px;
   -moz-column-count: 3;
-  -moz-column-gap: 3em;
+  -moz-column-gap: 48px;
   -webkit-column-count: 3;
-  -webkit-column-gap: 1em;
+  -webkit-column-gap: 16px;
   column-count: 3;
-  column-gap: 1em;
+  column-gap: 16px;
 }
 
 footer {
