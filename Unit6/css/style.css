@@ -5,6 +5,10 @@
 
 body {
   background-color: black;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .clearfix {
@@ -61,7 +65,7 @@ a:hover {
   background-repeat: no-repeat;
   background-size: 100%;
   margin-bottom: 0px;
-  margin-top: -20px;
+  background-color: black;
 }
 
 .jumbotron .container {
@@ -102,8 +106,8 @@ a:hover {
   margin: 0px;
 }
 
-.about h2{
- font-family: 'Droid Serif', serif;
+.about h2 {
+  font-family: 'Droid Serif', serif;
   color: white;
 }
 
