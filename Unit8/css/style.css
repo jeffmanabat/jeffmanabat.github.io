@@ -1,0 +1,224 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #7900a3;
+  font-family: 'Open Sans', sans-serif;
+  color: #fffd2b;
+  font-size: 100px%;
+}
+
+#container { 
+    margin: 0 auto;
+    width: 90%;
+    background-color: #7900a3;
+    text-align: center;
+    display: inline-block;
+}
+
+#Winnie {
+  width: 23%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: left;
+  display:inline-block;
+  padding: 1%;
+
+}
+
+#Rachel {
+  width: 23%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: left;
+  display:inline-block;
+  padding: 1%;
+}
+
+#Trixie {
+  width: 23%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: left;
+  display:inline-block;
+  padding: 1%;
+
+}
+
+#Trampolina {
+  width: 23%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  float: left;
+  display:inline-block;
+  padding: 1%;
+}
+
+.float_center {
+  float: right;
+  position: relative;
+  right: 50%; /* or right 50% */
+  text-align: center;
+}
+.float_center > .child {
+  position: relative;
+  left: 50%;
+}
+h1 {
+  font-family: 'Fontdiner Swanky', cursive;
+  color: #fffd2b;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-family: 'Marcellus SC', serif;
+  color: #fffd2b;
+  font-size: 1.3em;
+}
+
+h3 {
+  font-family: 'Marcellus SC', serif;
+  color: white;
+  font-size: 1.25em;
+  padding: 1em;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: .75em;
+  text-align: left;
+}
+
+hr {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #fffd2b;
+  color: #fffd2b;
+  height: 1px;
+  border:none;
+}
+
+li {
+  font-family: 'Open Sans', sans-serif;
+  display: inline;
+  text-align: center;
+  margin: 3.5%;
+  color: #fffd2b;
+  font-size: 1em;
+}
+
+
+footer {
+  color: #fffd2b;
+  font-size: .75em;
+  padding: .75em;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: .9em;
+}
+
+li {
+  margin: 2.5%;
+  font-size: .9em
+}
+
+p {
+  font-size: 1em;
+}
+
+#Winnie {
+width: 47%;
+padding: 1%;  
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+#Rachel {
+width: 47%;
+padding: 1%;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+#Trixie {
+width: 47%;
+padding: 1%;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+#Trampolina {
+width: 47%;
+padding: 1%;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+}
+
+
+
+@media screen and (max-width: 480px) {
+
+h1 {
+  font-size: 2.6em;
+}
+
+h2 {
+  font-size: .9em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+li {
+  margin: .75%;
+  font-size: .8em
+}
+
+#Winnie {
+width: 98%;
+padding: 1%;
+}
+
+#Rachel {
+width: 98%;
+padding: 1%;
+}
+
+#Trixie {
+width: 98%;
+padding: 1%;
+}
+
+#Trampolina {
+width: 98%;
+padding: 1%;
+}
+
+}
