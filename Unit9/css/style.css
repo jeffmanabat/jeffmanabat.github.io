@@ -1,0 +1,46 @@
+h1 {
+  font-family: Georgia, serif;
+  font-size: 40px;
+  font-weight: black;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+#slogan {
+    font-family: courier;
+    font-style: italic;
+}
+
+h2 {
+  font-family: Georgia, serif;
+}
+
+h3 {
+  font-family: Georgia, serif;
+}
+
+hr {
+  width: 100%;
+  display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+}
+
+p, li{
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+body {
+  margin: 4% 5%;
+  text-align: left;
+  background-color: #FFFFE0;
+  font-family: Helvetica;
+  color: black;
+  line-height: 200%;
+}
+
+footer {
+  text-align: center;
+  font-family: Georgia, serif;
+
+}
