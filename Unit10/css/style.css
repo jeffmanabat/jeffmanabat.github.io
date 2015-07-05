@@ -726,7 +726,7 @@ font-size: 1rem; padding: .5rem;
 
 h1 {
   font-size: 1.7em;
-  text-align: right;
+  text-align: center;
   padding: 1% 1% 0% 1%;
 
 }
@@ -734,7 +734,7 @@ h1 {
 h2 {
   line-height: 50%;
   font-size: .64em;
-  text-align: right;
+  text-align: center;
     padding: 0% 1% 0% 1%;
 
 }
