@@ -200,8 +200,6 @@ nav.vertical > ul > li > a:hover {
   column-gap: 40px;
 }
 
-
-
 .float_center {
   float: right;
   position: relative;
@@ -212,7 +210,6 @@ nav.vertical > ul > li > a:hover {
   position: relative;
   left: 50%;
 }
-
 
 h1 {
   font-family: 'Fontdiner Swanky', cursive;
