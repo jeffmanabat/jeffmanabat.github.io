@@ -24,6 +24,13 @@ ol, ul, li, mark {
 100% { left: -400%; }
 }
 
+.allwrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -58,12 +65,18 @@ figure.slider figure figcaption {
   text-align: center;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   text-align: center;
   background-color: #7900a3;
   font-family: 'Open Sans', sans-serif;
   color: #fffd2b;
   font-size: 100%;
+  padding-bottom: 10em;
+  height: 100%;
 }
 
 nav.vertical {
@@ -269,13 +282,35 @@ hr {
   clear:both;
 }
 
+.push {
+height: 5em;
+}
+
+.sssnext, .sssprev {
+  background: url('http://static.tumblr.com/ztaetns/rQ1nfk553/arr.png') no-repeat;
+}
+
+.sssprev {
+  left: 3%;
+  background-position: 0 50%;
+}
+
+.sssnext {
+  right: 3%;
+  background-position: -26px 50%;
+}
+
+
 
 footer {
   color: #fffd2b;
   background-color: #7900a3;
   font-size: .75em;
-  padding: .75em;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  height: 3em;
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
 }
 
 .slider {
