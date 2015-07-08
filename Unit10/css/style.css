@@ -287,8 +287,14 @@ height: 5em;
 }
 
 .sssnext, .sssprev {
-  background: url('http://static.tumblr.com/ztaetns/rQ1nfk553/arr.png') no-repeat;
+  width: 25px;
+  height: 100%;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  background: url('images/arr.png') no-repeat;
 }
+
 
 .sssprev {
   left: 3%;
