@@ -283,7 +283,7 @@ hr {
 }
 
 .push {
-height: 5em;
+height: 4em;
 }
 
 .sssnext, .sssprev {
@@ -295,7 +295,6 @@ height: 5em;
   background: url('images/arr.png') no-repeat;
 }
 
-
 .sssprev {
   left: 3%;
   background-position: 0 50%;
@@ -306,17 +305,15 @@ height: 5em;
   background-position: -26px 50%;
 }
 
-
-
 footer {
   color: #fffd2b;
   background-color: #7900a3;
   font-size: .75em;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  height: 3em;
-  margin: 1em;
-  padding: 1em;
   text-align: center;
+  height: 1em;
+  width: 100%;
+  bottom: 0;
 }
 
 .slider {
