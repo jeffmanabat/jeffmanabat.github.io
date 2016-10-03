@@ -1,0 +1,568 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Hire Us</title>
+    <link rel="icon" type="image/ico" href="favicon.ico"/>
+    <link href="http://fonts.googleapis.com/css?family=Marcellus+SC|Fontdiner+Swanky|Open+Sans|" rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initialscale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="css/pure-drawer.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="js/modernizr.js"></script> <!-- Modernizr -->
+    <style>
+    *, *:after, *:before {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+button.accordion {
+    background-color: white;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: black;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+    text-align: left;
+
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 500px;
+}
+    </style>
+</head>
+
+<body>
+ <div class="pure-container" data-effect="pure-effect-slide">
+            <input type="checkbox" id="pure-toggle-left" class="pure-toggle" data-toggle="left"/>
+            <label class="pure-toggle-label" for="pure-toggle-left" data-toggle-label="left"><span class="pure-toggle-icon"></span></label>
+            <nav class="pure-drawer" data-position="left">
+                <nav class="vertical">
+                    <ul>
+                      <li><a href="index.html">Home</a></li>
+                      <li><a href="girls.html">The Girls</a></li>
+                      <li><a href="boys.html">The Boys</a></li>
+                      <li><a href="shows.html">The Shows</a></li>
+                      <li><a href="videos.html">Music Videos</a></li>
+                      <li><a href="press.html">Press</a></li>
+                      <li><a href="hire us.html">Hire Us</a></li>
+                      <li><a href="about.html">About</a></li>
+                      <li><a href="mailto:info@kinseysicks.com">Contact</a></li>
+                      <li><img src="images/Kinsey8.jpg" alt="The Kinsey Sicks" title="The Kinsey Sicks" style="max-width:100%"></li>
+                    </ul>
+                </nav>
+            </nav>   
+
+            <h1>The Kinsey Sicks</h1>
+            <h2 style="line-height: 50%">America's Favorite Dragapella&reg; Beautyshop Quartet</h2>
+            <br>
+            <hr>
+            <div id="container">
+          <div id="About">
+          <h5>HIRE US!</h5>
+          <p>The Kinsey Sicks perform not only at theatres, music venues, and comedy clubs, but also at parties, conferences, and corporate events around the country and internationally. If you'd like to hire us, don't be shy. Here's what to do:</p>
+          <br>
+
+          <h5>Contact Us</h5> 
+          <p>Email us at <a href="mailto:info@kinseysicks.com"><font color="#FFFFFF">info@kinseysicks.com</a> and let us know the date(s) you're interested in, how you heard about us, and any other relevant information about the venue or event. We (or a lovely agent representing us) will be back in touch with you post haste.</p>
+                    
+          <br>
+
+          <h5>Look at Our Press Kit</h5> 
+          <p>Click on the buttons above to look at photos and downloadable posters suitable for your event, and hear what the press says about us. To read further about our history, and the boys behind the girls, click <a href="about.html"><font color="#FFFFFF">About</a>.</p>
+          
+          <br>
+
+
+          <h5> Huge Markdowns! </h5> 
+          <p>Sometimes we have open dates that must be filled! In fact, due to funky routing, huge discounts are currently available for these upcoming dates:</p>
+          <br>
+          <ul>
+              <li>Tue Jun 20, 2017</li>
+              <li>Wed Jun 21, 2017</li>
+              <li>Sun Jun 25, 2017</li>
+          </ul>
+          <br>
+
+          <h5>A Note About Diversity</h5> 
+          <p>The Kinsey Sicks represent an engaging way to introduce strong diversity values into your programming. Ours is a fiercely gay and solidly feminist voice that deserves to be heard by audiences in theaters and campuses around the country. The Kinsey Sicks are the longest running out gay performance troupe in existence. Our content often reflects a specifically LGBTQ perspective, but our appeal extends far beyond the gay community, to audiences of all sexual orientations, genders, ages and perspectives. In addition to our broad appeal, the Kinsey Sicks challenge audience members to think about a range of cultural and political trends deeply and critically. The Kinsey Sicks bring our diverse personal experiences to our writing and performing as well. Two members of the group are Jewish, while another member is Asian American, the son of Filipino immigrants. One member was an activist and professional advocate in the early years of the AIDS epidemic. One member lives in Mexico. More surprisingly, one member lives in Kansas. All four sing beautifully; all four are ridiculously funny; all four will overturn your expectations in a moment.</p>
+          <br><br>
+<h5>Where We've Performed</h5>
+
+<button class="accordion">National TV</button>
+<div class="panel">
+<option>20/20</option>
+<option>BBC Radio</option>
+<option>CBS Early Show with Bryant Gumbel</option>
+<option>CNN Politics</option>
+<option>NBCUniversal&#39;s Seeso (Before the Morning After, 4 episodes)</option>
+<option>RuPaul&#39;s Drag Race</option>
+<option>SKY News</option>
+<option>STV (Scottish TV) </option>
+</div>
+
+<button class="accordion">Performing Arts Centers and Theaters</button>
+<div class="panel">
+<option>Ajijic, MX - Auditorio de Riberas </option>
+<option>Lakeside Little Theatre </option>
+<option>Aspen, CO - Wheeler Opera House </option>
+<option>Atlanta, GA - 7 Stages Theatre </option>
+<option>Baltimore, MD - Creative Alliance </option>
+<option>Boston, MA - Boston Center for the Arts </option>
+<option>The Theater Offensive </option>
+<option>Cedar Rapids, IA - Legion Arts </option>
+<option>Charlotte, NC - Queen City Theatre Company </option>
+<option>Chicago, IL - McAninch Arts Center </option>
+<option>Dallas, TX - Majestic Theatre </option>
+<option>Davenport, IA - Adler Theatre </option>
+<option>Denver, CO - Ogden Theater </option>
+<option>Eau Claire, WI - Eau Claire Regional Arts Center </option>
+<option>Edinburgh, UK - Edinburgh Playhouse</option>
+<option>Eugene, OR - Oregon Contemporary Theater </option>
+<option>Falls Church, VA - State Theatre </option>
+<option>Ft. Lauderdale, FL - Broward Center for the Performing Arts </option>
+<option>Parker Playhouse </option>
+<option>Ft. Scott, KS - Liberty Theatre </option>
+<option>Greensboro, NC - CTG Starr Theatre </option>
+<option>Harrisburg, PA - Rose Lehrman Arts Center </option>
+<option>Hartford, CT - Jorgensen Performing Arts Center </option>
+<option>Houston, TX - Hobby Center for the Performing Arts </option>
+<option>Huntsville, AL - Merrimack Hall Performing Arts Center </option>
+<option>Idaho Falls, ID - Idaho Falls Arts Council </option>
+<option>Kansas City, MO - Folly Theater </option>
+<option>Key West, FL - San Carlos Institute </option>
+<option>Tennessee Williams Theatre </option>
+<option>Kirkland, WA - Kirkland Performance Center </option>
+<option>Lake Tahoe, NV - Harrah's Casino </option>
+<option>Las Vegas, NV - Las Vegas Hilton (open-ended run) </option>
+<option>Las Vegas , NV - Smith Center for the Performing Arts </option>
+<option>Las Vegas, NV - Westin Casuarina </option>
+<option>Lincoln, NE - Lied Center for the Performing Arts </option>
+<option>Lompoc, CA - Lompoc Civic Auditorium </option>
+<option>Los Angeles, CA - LA LGBT Center </option>
+<option>Pacific Design Center </option>
+<option>Renberg Theatre at the Village at Ed Gould Plaza </option>
+<option>Roxy Theatre </option>
+<option>Madison, WI - Overture Center for the Arts </option>
+<option>Miami, FL - Colony Theatre </option>
+<option>South Miami-Dade Cultural Arts Center </option>
+<option>Minneapolis, MN - New Century Theater </option>
+<option>Montclair, NJ - Memorial Auditorium at Montclair State University </option>
+<option>Napa , CA - Copia, the American Center for Wine, Food & the Arts </option>
+<option>New York, NY - Baruch Performing Arts Center </option>
+<option>New York City, NY - Highline Theatre</option>
+<option>Studio 54 (open-ended Off-Broadway show) </option>
+<option>Westbeth Theatre </option>
+<option>Northampton, MA - The Academy of Music </option>
+<option>Overland Park, KS - Johnson County Community College Performing Arts Series </option>
+<option>Peoria, IL - ICC Performing Arts Center </option>
+<option>Phoenix, AZ - Chandler Center for the Arts </option>
+<option>Pittsburgh, PA - City Theatre </option>
+<option>New Hazlett Theatre </option>
+<option>Portland, OR - Star Theater </option>
+<option>Provincetown, MA - Town Hall </option>
+<option>Reno, NV - Harrah's Casino </option>
+<option>Reno Hilton </option>
+<option>Rohnert Park, CA - Person Theater at Sonoma State University </option>
+<option>Sacramento, CA - California Musical Theatre </option>
+<option>Salina, KS - Stiefel Theatre </option>
+<option>San Francisco, CA - Castro Theatre </option>
+<option>Herbst Theatre </option>
+<option>New Conservatory Theatre Center </option>
+<option>Santa Cruz, CA - Rio Theatre </option>
+<option>Santa Rosa, CA - Luther Burbank Performing Arts Center </option>
+<option>The Glaser Center </option>
+<option>Scottsdale, AZ - Scottsdale Center for the Arts </option>
+<option>Seattle, WA - Nordstrom Recital Hall </option>
+<option>Shippensburg, PA - Luhrs Performing Arts Center </option>
+<option>Spokane, WA - Bing Crosby Theatre </option>
+<option>Springfield, MA - Springfield Performing Arts Center </option>
+<option>Sydney - Seymour Theatre Centre </option>
+<option>Tacoma, WA - Broadway Center </option>
+<option>Tampa, FL - Centro Asturiano </option>
+<option>Falk Theatre </option>
+<option>Straz Center </option>
+<option>Tampa Theatre </option>
+<option>Telluride, CO - Sheridan Opera House</option>
+<option>Three Oaks, MI - Acorn Theater </option>
+<option>Toronto, ON - Young Centre for the Performing Arts </option>
+<option>Washington, DC - Theater J </option>
+<option>Woolly Mammoth Theatre Company (Club 2:k:9) </option>
+<option>Whitefish, MT - Whitefish Theatre Co</option>
+<option>Wichita, KS - Mary Jane Teall Theater</option>
+<option>Williamstown, MA - '62 Center for Theatre & Dance </option>
+<option>Winthrop, WA - Methow Arts Alliance</option>
+</div>
+
+<button class="accordion">Music, Comedy, or Other Clubs</button>
+<div id="foo" class="panel">
+  <option>Ann Arbor, MI - Necto Nightclub </option>
+<option>Ajijic, Mex - El Piano Rojo </option>
+<option>Ann Arbor, MI - The Ark </option>
+<option>Baltimore, MD - Ram's Head Live! </option>
+<option>Boise, ID - Stay tuned for venue info </option>
+<option>Boston, MA - Comedy Connection (Faneuil Hall) </option>
+<option>Bucerias, Mex - Luna Lounge </option>
+<option>Charlottesville, VA - Gravity-Lounge </option>
+<option>Chicago, IL - Circuit Club </option>
+<option>Davenport's </option>
+<option>Mayne Stage </option>
+<option>Denver, CO - Lannie's Clocktower Cabaret </option>
+<option>Detroit, MI - Mark Ridley's Comedy Castle </option>
+<option>Guerneville, CA - Buck's Rivermill Theater </option>
+<option>Houston, TX - The Improv </option>
+<option>Las Vegas, NV - Share Nightclub </option>
+<option>London, UK - Pulse </option>
+<option>Los Angeles, CA - Comedy Store </option>
+<option>Highways (Santa Monica) </option>
+<option>Louisville, KY - The Connection </option>
+<option>Minneapolis, MN - LUSH </option>
+<option>Mattie's on Main </option>
+<option>The Saloon </option>
+<option>Montreal, QC - Club Soda </option>
+<option>New Haven, CT - The Annex Club </option>
+<option>New Hope, PA - The Rrazz Room </option>
+<option>New Orleans, LA - Cafe Istanbul </option>
+<option>New York City, NY - 54 Below </option>
+<option>B.B. King Blues Club & Grill </option>
+<option>Caroline's on Broadway </option>
+<option>Gotham Comedy Club </option>
+<option>Joe's Pub </option>
+<option>The Knitting Factory </option>
+<option>The Metropolitan Room </option>
+<option>The Roxy </option>
+<option>Ogunquit, ME - MaineStreet </option>
+<option>Palm Springs, CA - Copa </option>
+<option>Heaven </option>
+<option>The Purple Room </option>
+<option>Philadelphia , PA - The Rrazz Room </option>
+<option>Provincetown, MA - Crown & Anchor</option>
+<option>Puerto Vallarta, Mex - Act II Entertainment </option>
+<option>Club Manana </option>
+<option>The Blue Chairs </option>
+<option>The Palm </option>
+<option>Rehoboth, DE - Blue Moon </option>
+<option>Sacramento, CA - Cosmopolitan Cabaret </option>
+<option>San Diego, CA - Martinis Above Fourth </option>
+<option>San Francisco, CA - Oasis </option>
+<option>The Rrazz Room </option>
+<option>Seattle, WA - The Triple Door </option>
+<option>Sebastopol, CA - Sebastopol Community Cultural Center </option>
+<option>South Lake Tahoe, CA - The Loft Theatre & Lounge </option>
+<option>St. Louis, MO - Mad Art Gallery </option>
+<option>The Jumpin' Jupiter </option>
+<option>Washington, DC - The Birchmere (Alexandria) </option>
+<option>Winters, CA - The Palms Playhouse </option>
+</div>
+
+<button class="accordion">Festivals</button>
+<div id="foo" class="panel">
+<option>West Coast A Cappella Summit </option>
+<option>Edinburgh, UK - The Edinburgh Fringe </option>
+<option>Montreal, QC - Just For Laughs Comedy Festival </option>
+<option>Salina, KS - Smoky Hill River Festival </option>
+<option>San Francisco, CA - Five Thot Festival </option>
+<option>Kung Pao Kosher Comedy </option>
+<option>San Francisco Jewish Film Festival </option>
+<option>Toronto, ON - SING! Toronto Vocal Arts Festival </option>
+<option>Washington, DC - Washington DC Jewish Music Festival </option>
+</div>
+
+
+<button class="accordion">Pride Events</button>
+<div id="foo" class="panel">
+<option>Aspen Gay & Lesbian Ski Week </option>
+<option>Boulder Pride </option>
+<option>Columbus Pride </option>
+<option>International Bear Rendezvous </option>
+<option>Jersey Pride </option>
+<option>Key West Pride </option>
+<option>Long Beach Pride </option>
+<option>Madison Pride </option>
+<option>Mid-Atlantic Leather Weekend </option>
+<option>Milwaukee Pridefest </option>
+<option>New York City Pride Kickoff </option>
+<option>North Jersey Pride </option>
+<option>San Francisco GLBT Pride Main Stage </option>
+<option>Spokane Pride </option>
+<option>Sydney Gay & Lesbian Mardi Gras </option>
+<option>Tampa Gay and Lesbian International Film Festival </option>
+<option>Toronto Pride </option>
+<option>Utah Pride </option>
+<option>Washington DC Pridefest </option>
+<option>Raleigh, NC - OUT!Raleigh </option>
+
+</div>
+
+
+<button class="accordion">Non-Profit Events</button>
+<div id="foo" class="panel">
+<option>AIDS Foundation of Western Massachussetts </option>
+<option>Gay and Lesbian Medical Association </option>
+<option>Human Rights Campaign </option>
+<option>Lambda Legal Defense and Education Fund </option>
+<option>National Gay and Lesbian Task Force, Creating Change </option>
+<option>National Lesbian and Gay Journalists Association </option>
+<option>Out & Equal National Conference </option>
+<option>Boston, MA - Mass Equality </option>
+<option>Chicago, IL - Howard Brown Health Center </option>
+<option>Denver, CO - Denver Gay and Lesbian Center </option>
+<option>Kansas City, MO - AIDS Walk </option>
+<option>Louisville, KY - Beaux Arts Ball </option>
+<option>Miami, FL - Let the Games Begin Foundation </option>
+<option>Minneapolis, MN - Minnesota AIDS Project </option>
+<option>OutFront Minnesota </option>
+<option>Palm Springs, CA - Coachella Valley Repertory Theater </option>
+<option>Phoenix, AZ - Equality Arizona </option>
+<option>Sacramento, CA - Stonewall Democrats </option>
+<option>San Jose, CA - Silicon Valley Gay Men's Chorus (joint performance) </option>
+<option>Santa Cruz, CA - Santa Cruz AIDS Project </option>
+<option>Seattle, WA - Seattle Men's Chorus </option>
+</div>
+
+
+<button class="accordion">Corporate Events</button>
+<div id="foo" class="panel">
+<option>Dupont Pharmaceuticals </option>
+<option>Genentech, Inc. </option>
+<option>Google, NYC (panel discussion & film clips) </option>
+<option>Levi Strauss & Co. </option>
+<option>Morrison and Foerster, LLP </option>
+<option>Stadtlanders Pharmacy </option>
+<option>Wells Fargo Bank </option>
+</div>
+
+<button class="accordion">Cruises</button>
+<div id="foo" class="panel">
+<option>R Family Vacations </option>
+<option>TravelPride </option>
+<option>Aquafest Cruises </option>
+<option>RSVP Vacations </option>
+</div>
+
+<button class="accordion">Synagogues and Churches</button>
+<div id="foo" class="panel">
+<option>Burlingame, CA - Temple Sholom </option>
+<option>Cotati, CA - Congregation Ner Shalom</option>
+<option>Dallas, TX - Cathedral of Hope </option>
+<option>Kansas City, MO - Country Club Congregational United Church of Christ</option>
+<option>San Francisco, CA - Noe Valley Ministry </option>
+<option>Santa Cruz, CA - Chadeish Yameinu </option>
+</div>
+
+<button class="accordion">Fabulous but Uncategorizable</button>
+<div id="foo" class="panel">
+<option>Andy Warhol Museum </option>
+<option>Broadway Cares/Equity Fights AIDS - Gypsy of the Year (Palace Theatre), NYC </option>
+<option>Carnegie Institution, Washington DC </option>
+<option>Carnelian Room, San Francisco </option>
+<option>Dark Odyssey Convention, Washington DC </option>
+<option>Grecotel Blu, Mykonos, Greece </option>
+<option>International Men Enjoying Naturism Gathering </option>
+<option>James C. Hormel Gay & Lesbian Center of the San Francisco Public Library </option>
+<option>Sun Coast Resort, St. Petersburgh FL </option>
+<option>The Kinsey Kickstarter Campaign! </option>
+<option>Whitney Museum, NYC </option>
+<option>Winter Rendevous: Gay Ski Week, Stowe VT </option>
+</div>
+
+<button class="accordion">Colleges and Universities</button>
+<div id="foo" class="panel">
+<option>"The Kinseys have performed at almost 140 campuses in forty states … [They] make people laugh, feel, think and question. It’s the perfect combination for the college experience ... Not only do they entertain, but they enrich the conversation on campus.” </option>
+<option>-Campus Activities Magazine </option>
+<option>Albion College </option>
+<option>Albright College </option>
+<option>Alfred State College </option>
+<option>Amherst College </option>
+<option>Arcadia University </option>
+<option>Arizona State University at Tempe </option>
+<option>Augustana College </option>
+<option>Baldwin-Wallace College </option>
+<option>Bates College </option>
+<option>Binghamton University (SUNY-Binghamton) </option>
+<option>Bowling Green State University </option>
+<option>Bradley University </option>
+<option>Bryant University </option>
+<option>Bryn Mawr College </option>
+<option>Bucknell University </option>
+<option>California State University at Fresno </option>
+<option>California State University at Sacramento </option>
+<option>Case Western Reserve University </option>
+<option>Central Michigan University </option>
+<option>Central Wyoming College </option>
+<option>Coe College </option>
+<option>Colby College </option>
+<option>Colby-Sawyer College </option>
+<option>Colgate University </option>
+<option>College of Charleston </option>
+<option>College of Dupage (McAninch Arts Center) </option>
+<option>Colorado College </option>
+<option>Colorado State University </option>
+<option>Connecticut College </option>
+<option>Cornell University </option>
+<option>Curry College </option>
+<option>Dartmouth College </option>
+<option>Dickinson College </option>
+<option>Drew University </option>
+<option>Earlham College </option>
+<option>East Carolina University </option>
+<option>Eastern Kentucky University </option>
+<option>Eastern Michigan University </option>
+<option>Eastern Oregon University </option>
+<option>Edinboro University </option>
+<option>Elon University </option>
+<option>Fashion Institute of Technology </option>
+<option>Findlay College </option>
+<option>Florida State University at Tallahassee </option>
+<option>Founders Auditorium - Mansfield , OH</option>
+<option>Ft. Hays University </option>
+<option>Furman University </option>
+<option>Grinnell College </option>
+<option>Harvard University </option>
+<option>Heidelberg University </option>
+<option>Hendrix College </option>
+<option>Indiana University, MBLGTACC 2009 (headlining) </option>
+<option>Johnson & Wales University </option>
+<option>Kennesaw State University </option>
+<option>Kutztown University </option>
+<option>Lafayette College </option>
+<option>Lawrence University </option>
+<option>Lyndon State College </option>
+<option>Maryville University </option>
+<option>Mass. College of Liberal Arts with Williams College </option>
+<option>Mesa State College </option>
+<option>Miami University </option>
+<option>Michigan State University, MBLGTACC 2002 (headlining) </option>
+<option>Minnesota State University at Mankato </option>
+<option>NACA Mid-America: 2002, 2007, 2009, 2012 (mainstage) </option>
+<option>NACA Mid-Atlantic 2014 </option>
+<option>NACA Mid-Atlantic: 2003, 2006, 2008 (mainstage) </option>
+<option>NACA National: 2004, 2006, 2008 (mainstage) </option>
+<option>NACA Northeast: 2002, 2006, 2010 (mainstage) </option>
+<option>NACA Northern Plains, 2005 (mainstage) </option>
+<option>NACA South, 2005, 2008, 2012 (mainstage) </option>
+<option>NACA West, 2010 (mainstage) </option>
+<option>New England College </option>
+<option>New York University </option>
+<option>North Carolina State University at Raleigh </option>
+<option>Northeastern University </option>
+<option>Ohio State University Alumni Society </option>
+<option>Ohio State University at Mansfield </option>
+<option>Ohio University </option>
+<option>Ohio Wesleyan University </option>
+<option>Penn State University (the Behrend College) </option>
+<option>Philadelphia University </option>
+<option>Point Park University </option>
+<option>Radford University </option>
+<option>Rhode Island College </option>
+<option>Rhodes College </option>
+<option>Ripon College </option>
+<option>Roger Williams University </option>
+<option>Rowan University </option>
+<option>Rutgers University at Camden </option>
+<option>Salt Lake Community College </option>
+<option>Sarah Lawrence College </option>
+<option>Shepherd University </option>
+<option>Shippensburg University </option>
+<option>Slippery Rock University </option>
+<option>Smith College </option>
+<option>St. Cloud State University </option>
+<option>Stevenson University </option>
+<option>SUNY-IT </option>
+<option>SUNY-Oneonta </option>
+<option>Susquehanna University </option>
+<option>Texas Tech University </option>
+<option>Towson University </option>
+<option>University of Connecticut at Storrs</option>
+<option>University of Florida, Gainesville </option>
+<option>University of Guelph </option>
+<option>University of Illinois </option>
+<option>University of Illinois at Chicago </option>
+<option>University of Maine </option>
+<option>University of Maine at Presque Isle </option>
+<option>University of Mary Washington </option>
+<option>University of Maryland </option>
+<option>University of Massachusetts at Amherst </option>
+<option>University of Massachusetts at Dartmouth </option>
+<option>University of Michigan, Dearborn </option>
+<option>University of Michigan, Flint </option>
+<option>University of Nebraska at Lincoln (Lied Center) </option>
+<option>University of New England at Biddeford </option>
+<option>University of New Haven </option>
+<option>University of North Carolina </option>
+<option>University of North Florida </option>
+<option>University of Oregon </option>
+<option>University of Pittsburgh at Greenburg </option>
+<option>University of Pittsburgh at Greensboro </option>
+<option>University of Puget Sound </option>
+<option>University of South Carolina </option>
+<option>University of South Florida, St. Petersburg </option>
+<option>University of Tennessee </option>
+<option>University of Toledo </option>
+<option>University of Vermont </option>
+<option>University of West Florida </option>
+<option>University of Wisconsin at Green Bay </option>
+<option>University of Wisconsin at Stevens Point </option>
+<option>University of Wisconsin at Stout </option>
+<option>University of Wyoming </option>
+<option>Vincennes University </option>
+<option>Virginia Tech </option>
+<option>Wellesley College </option>
+<option>Western Michigan University </option>
+<option>Wheelock College </option>
+<option>Whitman College </option>
+<option>Williams College </option>
+<option>Winthrop University </option>
+<option>Wooster College </option>
+<option>Yale University </option>
+</div>
+
+        </div>
+
+<hr>
+      <footer><br>&copy; 2015 Kinsey Sicks, LLC All Rights Reserved</footer>
+</div>
+      <label class="pure-overlay" for="pure-toggle-left" data-overlay="left"></label>
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/masonry.pkgd.min.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/main.js"></script>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function(){
+        this.classList.toggle("active");
+        this.nextElementSibling.classList.toggle("show");
+  }
+}
+</script><!-- Resource jQuery -->
+</body>
+
+</html>
